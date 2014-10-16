@@ -1,0 +1,22 @@
+.top-navigation{
+   background-color: #fff;
+  
+}
+
+.top-navigation > .content{
+  width : 970px;
+  height: 70px;
+  margin:  0px auto;
+  padding: 0px 25px;
+  
+}
+
+.top-navigation > .content > .links{
+  margin-left:  20px;
+  float: right;
+}
+
+li{
+
+	display: inline-block;
+}
